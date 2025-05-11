@@ -6,10 +6,10 @@ I'm a final-year B.Tech student at LIET, Greater Noida, with a passion for front
 
 ### 🛠️ Technologies & Tools
 
-- **Frontend**: React, Angular, HTML, CSS, Tailwind
-- **Backend**: Firebase, MongoDB
+- **Frontend**: React, Angular, Next, HTML, CSS, Tailwind
+- **Backend**: Firebase, MongoDB, Next
 - **AI/ML**: Python, Data Science, Machine Learning
-- **Others**: C++, Inquisit (for Cognitive Research)
+- **Others**: C, C++, Inquisit (for Cognitive Research), Unity
 
 ### 📈 GitHub Stats
 
