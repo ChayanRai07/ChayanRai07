@@ -1,6 +1,6 @@
 # Hi, I'm Chayan Rai! 👋
 
-🚀 **Software Developer | Research Intern at IIT Mandi | Frontend developer | AI & ML Enthusiast**
+🚀 **Software Developer | Ex-Research Intern at IIT Mandi | Frontend developer | AI & ML Enthusiast**
 
 I'm a final-year B.Tech student at LIET, Greater Noida, with a passion for frontend development, AI, ML, and cognitive science research.
 
